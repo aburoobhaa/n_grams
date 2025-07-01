@@ -1,3 +1,8 @@
+
+**This project was developed as part of a Natural Language Processing course assignment in the 3rd year, 5th semester of the B.Tech AI & Data Science program.**
+
+--- 
+
 #  NGram Language Model (from scratch in Python)
 
 A simple yet powerful N-Gram Language Model implemented from scratch — **no external NLP libraries** like NLTK or spaCy.
