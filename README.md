@@ -26,11 +26,7 @@ n_gram/
 ├── init.py # Makes the folder a package
 └── README.md # This file
 
-n_gram/
-├── __init__.py      # Makes the folder a Python package
-├── ngram.py         # Main NGram class implementation
-├── main.py          # Sample usage script
-└── README.md        # Documentation (this file)
+
 ---
 
 ## 🔧 Installation
