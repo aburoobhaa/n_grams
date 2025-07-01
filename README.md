@@ -18,13 +18,15 @@ A simple yet powerful N-Gram Language Model implemented from scratch — **no ex
 
 ---
 
-## 🔧 Installation
+## Installation
 
 No special libraries are required. Just clone the repo and run with Python 3.6+.
 
 ```bash
+
 git clone https://github.com/aburoobhaa/n_gram.git
 cd n_gram
 python main.py
 
+``` 
 ----
