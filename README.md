@@ -18,17 +18,6 @@ A simple yet powerful N-Gram Language Model implemented from scratch — **no ex
 
 ---
 
-## 📂 Project Structure
-
-
-n_gram/
-│
-├── __init__.py      # Package initialization
-├── ngram.py         # Core NGram class
-├── main.py          # Usage examples
-└── README.md        # Documentation
----
-
 ## 🔧 Installation
 
 No special libraries are required. Just clone the repo and run with Python 3.6+.
