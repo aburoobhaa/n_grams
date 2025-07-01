@@ -20,13 +20,13 @@ A simple yet powerful N-Gram Language Model implemented from scratch — **no ex
 
 ## 📂 Project Structure
 
+
 n_gram/
-├── ngram.py # Main class
-├── main.py # Sample usage script
-├── init.py # Makes the folder a package
-└── README.md # This file
-
-
+│
+├── __init__.py      # Package initialization
+├── ngram.py         # Core NGram class
+├── main.py          # Usage examples
+└── README.md        # Documentation
 ---
 
 ## 🔧 Installation
